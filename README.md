@@ -1,9 +1,9 @@
-<h1> How to Create a 2D Game in SPARK AR [How to Start the Game and Set Objects in Motion]</h1>
+<h1> How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target Disappear by Collision, Add Music]</h1>
 
 Tutorial on YouTube 
-<a href="https://www.youtube.com/watch?v=Yumu3aqeRbI">How to Create a 2D Game in SPARK AR [How to Start the Game and Set Objects in Motion]</a>
+<a href="https://youtu.be/0QjdAffHmXM">How to Create a 2D Game in SPARK AR [v85+ Counter Script, Target Disappear by Collision, Add Music]</a>
 
-<a href="https://www.youtube.com/watch?v=Yumu3aqeRbI" alt="Spark AR Native UI Picker 2020 for 3D Objects (update 85v)"> <img src="qknow-design-spark-ar-2d-game-tutorial.jpg"/> </a> 
+<a href="https://youtu.be/0QjdAffHmXM" alt="Spark AR Native UI Picker 2020 for 3D Objects (update 85v)"> <img src="qknow-design-spark-ar-2d-game-tutorial_part3.jpg"/> </a> 
 
 Learn more stuff by watching my <a href="https://www.youtube.com/channel/UC_ycBf44SNpOc7w6kvYkufA?view_as=subscriber">Spark AR Tutorials on YouTube</a>!
 
